@@ -1,0 +1,11 @@
+In Unix
+paste the path of following form
+/home/username/.mozilla/firefox/na*.default-*
+in path file
+and then
+copy and paste the the following in usr/python/lib/python2.7 folder
+1)sessions folder
+2)session_info
+3)path
+4)savesession.pyc
+
